@@ -1,0 +1,36 @@
+CyberDudeBivash Proprietary License  
+Copyright (c) 2025 CyberDudeBivash Pvt Ltd  
+All Rights Reserved.
+
+This software, toolkit, source code, scripts, workflows, playbooks, applications, 
+or any associated assets (collectively “Software”) are the exclusive intellectual 
+property of CyberDudeBivash Pvt Ltd.
+
+You MAY:
+ - Use the Software for personal, educational, or internal security research.
+ - Share results of analysis and research with proper credit to CyberDudeBivash.
+ - Reference the Software in blogs, videos, training, or papers with attribution.
+
+You MAY NOT:
+ - Sell, rent, lease, sublicense, or commercially distribute this Software.
+ - Modify, fork, or create derivative works without written permission.
+ - Host, republish, or mirror the Software anywhere else publicly.
+ - Use the Software in competitor products, services, or SaaS offerings.
+ - Remove or alter the CyberDudeBivash branding or copyright notices.
+
+Commercial Use:
+Any commercial, enterprise, SOC/SIEM integration, consulting, 
+or security product usage requires a valid commercial license purchased from:
+
+https://www.cyberdudebivash.com/contact
+
+Liability:
+This Software is provided “AS IS” without warranties of any kind. 
+CyberDudeBivash is not responsible for damages, data loss, cyber incidents, 
+or misuse of this Software.
+
+By using this Software, you agree to the full CyberDudeBivash License Terms.
+
+For commercial licensing:
+Email: iambivash@cyberdudebivash.com  
+Website: https://www.cyberdudebivash.com
